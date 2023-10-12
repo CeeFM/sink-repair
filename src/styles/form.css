@@ -1,0 +1,26 @@
+.serviceForm {
+	display: flex;
+	flex-direction: column;
+	gap: 5px;
+}
+
+.input {
+	width: 75%;
+}
+
+.serviceForm button {
+	width: 20%;
+	padding: .5rem;
+	background-color: rgb(11, 11, 147);
+	color: white;
+	margin-top: 20px;
+}
+
+#container {
+	margin-left: 2rem;
+}
+
+.field label {
+	font-size: 1rem;
+}
+

@@ -1,0 +1,72 @@
+{
+  "plumbers": [ 
+    {
+        "name": "Big Mario Mario Bruh",
+        "id": 1
+    },
+    {
+        "name": "Aww Liddle Luigi Boyo",
+        "id": 2
+    },
+    {
+        "name": "Wario The Big Bad Bummer Guy",
+        "id": 3
+    },
+    {
+        "name": "Waluigi Waluigi I fuckin guess",
+        "id": 4
+    }
+],
+  "completions": [],
+  "requests": [
+    {
+      "id": 1,
+      "description": "Aut sint voluptatem fugit eius quas molestiae modi.",
+      "address": "34445 Bianka Ports",
+      "budget": 400,
+      "neededBy": "2021-08-27"
+    },
+    {
+      "id": 2,
+      "description": "Oops, I did it again (broke my freakin toilet cuz I was standing on it and jumping up and down).",
+      "address": "07923 Fianka Ports",
+      "budget": 700,
+      "neededBy": "2023-08-27"
+    },
+    {
+      "id": 3,
+      "description": "Oh my gosh it's raining (from my ceilings because the pipes have been leaking so badly).",
+      "address": "245224 Prianka Ports",
+      "budget": 1200,
+      "neededBy": "2023-10-31"
+    },
+    {
+      "id": 4,
+      "description": "Why it smell so bad in here tho (sewage is leaking under my floorboards)",
+      "address": "64445 Pooanka Ports",
+      "budget": 1500,
+      "neededBy": "2023-11-24"
+    },
+    {
+      "description": "Big ol fuckin raccoon in my sink - won't get out, please help, it's gonna friggin kill me or something!!",
+      "address": "69420 Absolutely Real Way FI",
+      "budget": "40000000000000000",
+      "neededBy": "2023-10-11",
+      "id": 5
+    },
+    {
+      "description": "why this shit disappear immediately in the dev tools but seems to be working in the database? the id popping in a different position in the objects, does that matter? man i feel like an idiot and i'll never figure this out, coding rules",
+      "address": "oh my god get off me bro",
+      "budget": "1000000",
+      "neededBy": "2012-12-12",
+      "id": 9
+    },
+    {
+      "description": "what the hell is going on here",
+      "address": "for real tho",
+      "budget": "20",
+      "neededBy": "2023-10-11",
+      "id": 10
+    }
+  ]
+}
